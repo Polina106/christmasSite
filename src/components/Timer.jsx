@@ -11,18 +11,17 @@ export default function Timer() {
     const deadline = "December, 31, 2022";
   
     const getTime = () => {
-      const time = Date.parse(deadline) - Date.now();    
+        const time = Date.parse(deadline) - Date.now();    
   
-      setDays(Math.floor(time / (1000 * 60 * 60 * 24)));
-      setHours(Math.floor((time / (1000 * 60 * 60)) % 24));
-      setMinutes(Math.floor((time / 1000 / 60) % 60));
-      setSeconds(Math.floor((time / 1000) % 60));
+        setDays(Math.floor(time / (1000 * 60 * 60 * 24)));
+        setHours(Math.floor((time / (1000 * 60 * 60)) % 24));
+        setMinutes(Math.floor((time / 1000 / 60) % 60));
+        setSeconds(Math.floor((time / 1000) % 60));
     };
   
     React.useEffect(() => {
-      const interval = setInterval(() => getTime(deadline), 1000);
-  
-      return () => clearInterval(interval);
+        const interval = setInterval(() => getTime(deadline), 1000);  
+        return () => clearInterval(interval);
     }, []);
   
     return (

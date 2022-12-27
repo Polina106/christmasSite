@@ -1,7 +1,7 @@
 {
   "name": "client",
   "version": "0.1.0",
-  "homepage": "https://Polina106.github.io/christmasSite",
+  "homepage": "https://polina106.github.io/christmasSite",
   "private": true,
   "dependencies": {
     "axios": "^1.1.3",

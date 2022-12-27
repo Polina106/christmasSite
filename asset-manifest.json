@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/christmasSite/static/css/main.e9db260c.css",
+    "main.js": "/christmasSite/static/js/main.efdb9b67.js",
+    "static/media/video1.MOV": "/christmasSite/static/media/video1.cf638b4aa3673644c20f.MOV",
+    "static/media/video3.MP4": "/christmasSite/static/media/video3.cb86da5485a4434b5731.MP4",
+    "static/media/video2.mp4": "/christmasSite/static/media/video2.718969aff5b9dfed9f67.mp4",
+    "static/media/video4.MOV": "/christmasSite/static/media/video4.a6cf263cdfe03da438c3.MOV",
+    "static/media/header2.jpg": "/christmasSite/static/media/header2.8fb1414749024237f8ca.jpg",
+    "static/media/photo18.jpg": "/christmasSite/static/media/photo18.e648132a75e5bc14c8e4.jpg",
+    "static/media/video5.MP4": "/christmasSite/static/media/video5.e6d7c55e4264b473be78.MP4",
+    "static/media/photo16.jpg": "/christmasSite/static/media/photo16.5a50e15200873c504ccc.jpg",
+    "static/media/snow2.png": "/christmasSite/static/media/snow2.b53cfcf7baff6ec0c013.png",
+    "static/media/photo13.jpg": "/christmasSite/static/media/photo13.f5be99f7835a6486e841.jpg",
+    "static/media/photo9.jpg": "/christmasSite/static/media/photo9.c69a5a7622cc5b41b261.jpg",
+    "static/media/photo10.jpg": "/christmasSite/static/media/photo10.0634d4b35c79ec34a166.jpg",
+    "static/media/photo17.jpg": "/christmasSite/static/media/photo17.bfa852b4dae529a606ad.jpg",
+    "static/media/photo11.jpg": "/christmasSite/static/media/photo11.c70a7cdc63b563007190.jpg",
+    "static/media/photo6.jpg": "/christmasSite/static/media/photo6.060427fed0e297b97ac4.jpg",
+    "static/media/photo14.jpg": "/christmasSite/static/media/photo14.ad08abbdc77005bb3773.jpg",
+    "static/media/photo7.jpg": "/christmasSite/static/media/photo7.b0f6c2ce10b160796ad5.jpg",
+    "static/media/photo1.jpg": "/christmasSite/static/media/photo1.ffc97f9f9e07d822d454.jpg",
+    "static/media/photo12.jpg": "/christmasSite/static/media/photo12.ca0bf743e9e1e5cac2b4.jpg",
+    "static/media/photo5.jpg": "/christmasSite/static/media/photo5.c52fc16f4bfe8d271019.jpg",
+    "index.html": "/christmasSite/index.html",
+    "main.e9db260c.css.map": "/christmasSite/static/css/main.e9db260c.css.map",
+    "main.efdb9b67.js.map": "/christmasSite/static/js/main.efdb9b67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9db260c.css",
+    "static/js/main.efdb9b67.js"
+  ]
+}

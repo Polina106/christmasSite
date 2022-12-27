@@ -7,6 +7,6 @@ export const GALLERY_PATH = "/gallery"
 
 // Routes
 export const routes = [
-  { path: MAIN_PATH, Component: MainPage},
-  { path: GALLERY_PATH, Component: Gallery}
+  {path: MAIN_PATH, Component: MainPage},
+  {path: GALLERY_PATH, Component: Gallery},
 ]

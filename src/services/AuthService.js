@@ -1,4 +1,3 @@
 export default class AuthService {
-  static async register(credentials) {
-  }
+  static async register(credentials) {}
 }

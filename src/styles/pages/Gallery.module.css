@@ -1,7 +1,7 @@
 .menu { 
-	margin: 0;
-	background: linear-gradient(to top, rgb(17, 62, 26), rgba(189, 54, 52, 1.0) 70%);
-	width: 100%;
+    margin: 0;
+    background: linear-gradient(to top, rgb(17, 62, 26), rgba(189, 54, 52, 1.0) 70%);
+    width: 100%;
     height: 200vh;
     position: relative;
     background-size: cover;
@@ -38,7 +38,7 @@
 .hor {
     border-radius: 20px;
     height: 500px;
-    box-shadow:  5px 5px 50px rgb(96, 13, 13);
+    box-shadow: 5px 5px 50px rgb(96, 13, 13);
 }
 
 .card {
@@ -68,10 +68,10 @@
 }
 
 .lights {
-	height: 300px;
+    height: 300px;
     width: 400px;
-	margin-bottom: -16%;
-	transform: translateY(-30%) translateX(150%);
+    margin-bottom: -16%;
+    transform: translateY(-30%) translateX(150%);
 }
 
 .colLights {
